@@ -1,0 +1,2 @@
+# No external dependencies -- this project uses only the Python standard library.
+# requirements.txt is included as a placeholder / convention for future additions.
